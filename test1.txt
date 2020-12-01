@@ -1,5 +1,5 @@
 good world!
 first.
-bug1-fixed fixed
+bug1-fixed fixed fixed
 
 dev
